@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is an empty README file for approving my student verification (For using the Copilot for free!)
 
 <!--
 **YiiiiZ/YiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
