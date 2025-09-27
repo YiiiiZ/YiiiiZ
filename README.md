@@ -5,7 +5,7 @@
 📍 Based in Los Angeles, CA  
 💡 Passionate about quantum computing, superconducting qubits, and quantum many body dynamics  
 🔎 Currently seeking full-time opportunities in quantum computing, research, or related fields  
-
+📫 yizheng.0122[at]gmail.com
 <!--
 **YiiiiZ/YiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
