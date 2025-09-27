@@ -1,10 +1,10 @@
 ## Hi, I'm Yi Zheng 👋
 
-🎓 Master’s in Quantum Science and Technology @ UCLA (2024–2025)
-🎓 Bachelor in Physics @ University of Cambridge (2021-2024)
-📍 Based in Los Angeles, CA
-💡 Passionate about quantum computing, superconducting qubits, and quantum many body dynamics
-🔎 Currently seeking full-time opportunities in quantum computing, research, or related fields
+🎓 Master’s in Quantum Science and Technology @ UCLA (2024–2025)  
+🎓 Bachelor in Physics @ University of Cambridge (2021-2024)  
+📍 Based in Los Angeles, CA  
+💡 Passionate about quantum computing, superconducting qubits, and quantum many body dynamics  
+🔎 Currently seeking full-time opportunities in quantum computing, research, or related fields  
 
 <!--
 **YiiiiZ/YiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
