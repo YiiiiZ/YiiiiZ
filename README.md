@@ -1,9 +1,13 @@
 ## Hi, I'm Yi Zheng 👋
 
-💼 Member of technical staff @ Philo Labs
+💼 Member of technical staff @ Philo Labs (2026 - now)
+
 🔬 Quantum Researcher @ Stanford University & SLAC (2025-2026)
+
 🎓 Master’s in Quantum Science and Technology @ UCLA (2024–2025)  
+
 🎓 Bachelor in Physics @ University of Cambridge (2021-2024)   
+
 📫 yizheng.0122[at]gmail.com
 <!--
 **YiiiiZ/YiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
